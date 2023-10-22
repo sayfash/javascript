@@ -1,7 +1,7 @@
 let x = 10;
 let y = 5;
 
-Math.abs(x);
+Math.abs(x); // Memberikan Nilai Absolut (Mutlak) pada angka
 Math.acos(x);
 Math.acosh(x);
 Math.asin(x);
@@ -20,19 +20,19 @@ Math.floor(x); // Membulatkan ke bawah
 Math.fround(x);
 // Math.hypot([x[, y[, ...]]]);
 Math.imul(x,y);
-Math.log(x);
+Math.log(x); // Mencari nilai Logaritma
 Math.log1p(x);
-Math.log10(x);
-Math.log2(x);
+Math.log10(x); // Mencari nilai Log 10
+Math.log2(x); // Mencari Nilai Log 2
 // Math.max([x[, y[, ...]]]);
 // Math.min([x[, y[, ...]]]);
-Math.pow(x,y);
+Math.pow(x,y); // Membuat Kuadrat, X sebagai Basis, Y sebagai Pangkat
 Math.random();
 Math.round(x); // Membulatkan sesuai dengan angka desimal ke atas atau ke bawah
 Math.sign(x);
 Math.sin(x);
 Math.sinh(x);
-Math.sqrt(x);
+Math.sqrt(x); // Mencari akar kuadrat
 Math.tan(x);
 Math.tanh(x);
 Math.trunc(x);
