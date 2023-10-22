@@ -7,5 +7,13 @@ function codePoint(){
     console.log(String.fromCodePoint(0x2615, 0x2744, 0x2f40));
 }
 
+let niomic = "I Wanna Break Free!";
+
+function changeCase(){
+    console.log(niomic.toLowerCase());
+    console.log(niomic.toUpperCase());
+}
+
 codeAt();
 codePoint();
+changeCase();
