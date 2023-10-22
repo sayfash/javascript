@@ -1,3 +1,6 @@
+let x = 10;
+let y = 5;
+
 Math.abs(x);
 Math.acos(x);
 Math.acosh(x);
@@ -15,14 +18,14 @@ Math.exp(x);
 Math.expm1(x);
 Math.floor(x);
 Math.fround(x);
-Math.hypot([x[, y[, ...]]]);
+// Math.hypot([x[, y[, ...]]]);
 Math.imul(x,y);
 Math.log(x);
 Math.log1p(x);
 Math.log10(x);
 Math.log2(x);
-Math.max([x[, y[, ...]]]);
-Math.min([x[, y[, ...]]]);
+// Math.max([x[, y[, ...]]]);
+// Math.min([x[, y[, ...]]]);
 Math.pow(x,y);
 Math.random();
 Math.round(x);
