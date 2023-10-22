@@ -10,13 +10,13 @@ Math.atan(x);
 Math.atanh(x);
 Math.atan2(y,x);
 Math.cbrt(x);
-Math.ceil(x);
+Math.ceil(x); // Membulatkan ke atas
 Math.clz32(x);
 Math.cos(x);
 Math.cosh(x);
 Math.exp(x);
 Math.expm1(x);
-Math.floor(x);
+Math.floor(x); // Membulatkan ke bawah
 Math.fround(x);
 // Math.hypot([x[, y[, ...]]]);
 Math.imul(x,y);
@@ -28,7 +28,7 @@ Math.log2(x);
 // Math.min([x[, y[, ...]]]);
 Math.pow(x,y);
 Math.random();
-Math.round(x);
+Math.round(x); // Membulatkan sesuai dengan angka desimal ke atas atau ke bawah
 Math.sign(x);
 Math.sin(x);
 Math.sinh(x);
