@@ -24,8 +24,8 @@ Math.log(x); // Mencari nilai Logaritma
 Math.log1p(x);
 Math.log10(x); // Mencari nilai Log 10
 Math.log2(x); // Mencari Nilai Log 2
-// Math.max([x[, y[, ...]]]);
-// Math.min([x[, y[, ...]]]);
+// Math.max([x[, y[, ...]]]); Mencari nilai Maksimal
+// Math.min([x[, y[, ...]]]); Mencari nilai Minimal
 Math.pow(x,y); // Membuat Kuadrat, X sebagai Basis, Y sebagai Pangkat
 Math.random();
 Math.round(x); // Membulatkan sesuai dengan angka desimal ke atas atau ke bawah
