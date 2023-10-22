@@ -14,6 +14,11 @@ function changeCase(){
     console.log(niomic.toUpperCase());
 }
 
+function charAts(){
+    console.log(niomic.charAt(11));
+}
+
 codeAt();
 codePoint();
 changeCase();
+charAts();
