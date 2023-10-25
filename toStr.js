@@ -42,4 +42,4 @@ function matchStr(x) {
     console.log(myStr.match(x));
 }
 
-matchStr("learn");
+matchStr(/learn/g);
